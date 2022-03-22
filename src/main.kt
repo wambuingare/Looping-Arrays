@@ -1,5 +1,5 @@
 fun main(){
-    println(multiplication(arrayOf(10,2,5,4)))
+    println(multiplication(arrayOf(12,2,6,4)))
     println(sumIntegers(arrayOf(44,2.2,0.56,true,'y',"nancy")))
     var w=createVowels(arrayOf('a','e','i','o','u'))
     println(w)
